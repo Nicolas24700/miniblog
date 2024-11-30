@@ -3,23 +3,6 @@
 Bienvenue dans le projet **Blog PHP** réalisé dans le cadre d'un exercice de développement dans mon but mmi où l'objectif était de faire un blog avec une structure MVC en PHP
 
 ---
-## 🚀 Installation du site en local  
-
-1. **Lancer XAMPP** :  
-   - Activer les serveurs **Apache** et **MySQL**.  
-
-2. **Ajouter les fichiers du site** :  
-   - Accédez au dossier `htdocs`.  
-   - Déposez-y le dossier **miniblog** contenant le code du site et le fichier de base de données.
-   
----
-## 🗄️ Installation de la base de données  
-
-1. **Ouvrir phpMyAdmin**
-
-2. **importer la base de données : molduch_miniprojetphp.sql**
-   
----
 ## 🌐 URL du projet  
 
 - **Back-office (admin)** :  
